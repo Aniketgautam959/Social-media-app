@@ -89,17 +89,14 @@ git commit -m "Add my feature"
 git push origin feature/myFeature
 Then submit a pull request 🙌
 
-📄 License
-This project is open source and available under the MIT License.
 
 📬 Connect with Me
-💼 Portfolio: Aniket Gautam
 
-📧 Email: aniket.gautam300@gmail.com
+📧 Email: aniket10bhp@gmail.com
 
 🐙 GitHub: @Aniketgautam959
 
-Built with ❤️ by Aniket Gautam
+Built with ❤by Aniket Gautam
 
 markdown
 Copy
