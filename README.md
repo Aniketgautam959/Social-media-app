@@ -123,6 +123,3 @@ Want me to generate this as a file for direct upload?
 
 
 
-
-Ask ChatGPT
-
